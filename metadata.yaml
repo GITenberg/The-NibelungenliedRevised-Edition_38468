@@ -18,6 +18,8 @@ covers:
 - cover_type: archival
   image_path: 38468-h/images/cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38468#The-NibelungenliedRevised-Edition
 gutenberg_issued: '2012-01-02'
 gutenberg_type: Text
 identifiers:
