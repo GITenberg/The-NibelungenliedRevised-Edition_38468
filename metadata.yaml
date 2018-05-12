@@ -1,0 +1,36 @@
+_repo: The-NibelungenliedRevised-Edition_38468
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Carpenter, William H. (William Henry)
+    birthdate: 1853
+    deathdate: 1936
+    gutenberg_agent_id: '39538'
+    url: http://www.gutenberg.org/2009/agents/39538
+  translator:
+    agent_name: Lettsom, William Nanson
+    birthdate: 1796
+    deathdate: 1865
+    gutenberg_agent_id: '39501'
+    url: http://www.gutenberg.org/2009/agents/39501
+    wikipedia: http://en.wikipedia.org/wiki/William_Nanson_Lettsom
+covers:
+- cover_type: archival
+  image_path: 38468-h/images/cover.png
+description: ''
+gutenberg_issued: '2012-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38468'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Epic poetry, German -- Translations into English'
+- !lcsh 'Nibelungen -- Poetry'
+- !lcc 'PT'
+title: 'The Nibelungenlied
+
+  Revised Edition'
+url: http://www.gutenberg.org/ebooks/38468
